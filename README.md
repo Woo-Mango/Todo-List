@@ -1,4 +1,4 @@
 # Todo-List
 Todo List exercise
 
-Android file 자체 
+Android file -> open from android studio
